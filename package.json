@@ -1,0 +1,19 @@
+{
+  "name": "vueform",
+  "version": "1.0.0",
+  "description": "This is a form made in VUE.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielArmengod1996/testingVueForms.git"
+  },
+  "author": "Daniel Armengod Sorrosal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielArmengod1996/testingVueForms/issues"
+  },
+  "homepage": "https://github.com/DanielArmengod1996/testingVueForms#readme"
+}
